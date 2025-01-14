@@ -26,8 +26,9 @@
 
 - 📫 **How to reach me:**
   - Email: your.email@example.com
-  - LinkedIn: [Your LinkedIn Profile](#)
-  - Portfolio: [Your Portfolio Link](#)
+  - Whatsapp: [+212716505438](https://api.whatsapp.com/send?phone=212716505438)
+  - Facebook: [mr.sibari](https://web.facebook.com/mr.sibari)
+  - Instagram: [mr.sibari](https://www.instagram.com/mr.sibari)
 
 ## Fun Facts
 - 😄 **Pronouns:** He/His
