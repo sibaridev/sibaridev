@@ -25,7 +25,7 @@
   - Creative, design-based tech solutions
 
 - 📫 **How to reach me:**
-  - Email: your.email@example.com
+  - Email: sibaridev@gmail.com
   - Whatsapp: [+212716505438](https://api.whatsapp.com/send?phone=212716505438)
   - Facebook: [mr.sibari](https://web.facebook.com/mr.sibari)
   - Instagram: [mr.sibari](https://www.instagram.com/mr.sibari)
