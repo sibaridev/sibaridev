@@ -27,8 +27,8 @@
 - 📫 **How to reach me:**
   - Email: sibaridev@gmail.com
   - Whatsapp: [+212716505438](https://api.whatsapp.com/send?phone=212716505438)
-  - Facebook: [mr.sibari](https://web.facebook.com/mr.sibari)
-  - Instagram: [mr.sibari](https://www.instagram.com/mr.sibari)
+  - Facebook: [@SIBARIDEV](https://web.facebook.com/sibaridev)
+  - Instagram: [@SIBARIDEV](https://www.instagram.com/sibaridev)
 
 ## Fun Facts
 - 😄 **Pronouns:** He/His
